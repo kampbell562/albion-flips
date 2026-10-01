@@ -1,0 +1,398 @@
+# Albion Flips watchlist: one item per line, written exactly as the game shows it.
+# Add .1 / .2 / .3 for enchanted gear or food (e.g. Beef Stew .1). Resources use their own
+# names instead (e.g. Uncommon Steel Bar = 4.1 steel). Delete or add # to skip any line.
+# Fewer lines = faster refresh. Hit Refresh in the app after saving.
+
+# ---- Food & potions ----
+Beef Stew
+Beef Stew .1
+Beef Stew .2
+Cabbage Soup
+Potato Salad
+Mutton Stew
+Mutton Sandwich
+Pork Omelette .1
+Pork Omelette .2
+Pork Pie
+Invisibility Potion
+Major Healing Potion
+Major Healing Potion .1
+Poison Potion
+Gigantify Potion
+Raw Beef
+Raw Pork
+Cow's Milk
+Firetouched Mullein
+Elusive Foxglove
+Sheaf of Wheat
+
+# ---- Ore ----
+Copper Ore
+Tin Ore
+Iron Ore
+Titanium Ore
+Runite Ore
+Meteorite Ore
+Adamantium Ore
+Uncommon Iron Ore
+Uncommon Titanium Ore
+Uncommon Runite Ore
+Uncommon Meteorite Ore
+Uncommon Adamantium Ore
+Rare Iron Ore
+Rare Titanium Ore
+Rare Runite Ore
+Rare Meteorite Ore
+Rare Adamantium Ore
+Exceptional Iron Ore
+Exceptional Titanium Ore
+Exceptional Runite Ore
+Exceptional Meteorite Ore
+Exceptional Adamantium Ore
+Pristine Iron Ore
+Pristine Titanium Ore
+Pristine Runite Ore
+Pristine Meteorite Ore
+Pristine Adamantium Ore
+
+# ---- Metal bars ----
+Copper Bar
+Bronze Bar
+Steel Bar
+Titanium Steel Bar
+Runite Steel Bar
+Meteorite Steel Bar
+Adamantium Steel Bar
+Uncommon Steel Bar
+Uncommon Titanium Steel Bar
+Uncommon Runite Steel Bar
+Uncommon Meteorite Steel Bar
+Uncommon Adamantium Steel Bar
+Rare Steel Bar
+Rare Titanium Steel Bar
+Rare Runite Steel Bar
+Rare Meteorite Steel Bar
+Rare Adamantium Steel Bar
+Exceptional Steel Bar
+Exceptional Titanium Steel Bar
+Exceptional Runite Steel Bar
+Exceptional Meteorite Steel Bar
+Exceptional Adamantium Steel Bar
+Pristine Steel Bar
+Pristine Titanium Steel Bar
+Pristine Runite Steel Bar
+Pristine Meteorite Steel Bar
+Pristine Adamantium Steel Bar
+
+# ---- Wood ----
+Birch Logs
+Chestnut Logs
+Pine Logs
+Cedar Logs
+Bloodoak Logs
+Ashenbark Logs
+Whitewood Logs
+Uncommon Pine Logs
+Uncommon Cedar Logs
+Uncommon Bloodoak Logs
+Uncommon Ashenbark Logs
+Uncommon Whitewood Logs
+Rare Pine Logs
+Rare Cedar Logs
+Rare Bloodoak Logs
+Rare Ashenbark Logs
+Rare Whitewood Logs
+Exceptional Pine Logs
+Exceptional Cedar Logs
+Exceptional Bloodoak Logs
+Exceptional Ashenbark Logs
+Exceptional Whitewood Logs
+Pristine Pine Logs
+Pristine Cedar Logs
+Pristine Bloodoak Logs
+Pristine Ashenbark Logs
+Pristine White Wood Logs
+
+# ---- Planks ----
+Birch Planks
+Chestnut Planks
+Pine Planks
+Cedar Planks
+Bloodoak Planks
+Ashenbark Planks
+Whitewood Planks
+Uncommon Pine Planks
+Uncommon Cedar Planks
+Uncommon Bloodoak Planks
+Uncommon Ashenbark Planks
+Uncommon Whitewood Planks
+Rare Pine Planks
+Rare Cedar Planks
+Rare Bloodoak Planks
+Rare Ashenbark Planks
+Rare Whitewood Planks
+Exceptional Pine Planks
+Exceptional Cedar Planks
+Exceptional Bloodoak Planks
+Exceptional Ashenbark Planks
+Exceptional Whitewood Planks
+Pristine Pine Planks
+Pristine Cedar Planks
+Pristine Bloodoak Planks
+Pristine Ashenbark Planks
+Pristine Whitewood Planks
+
+# ---- Fiber ----
+Cotton
+Flax
+Hemp
+Skyflower
+Amberleaf Cotton
+Sunflax
+Ghost Hemp
+Uncommon Hemp
+Uncommon Skyflower
+Uncommon Amberleaf Cotton
+Uncommon Sunflax
+Uncommon Ghost Hemp
+Rare Hemp
+Rare Skyflower
+Rare Amberleaf Cotton
+Rare Sunflax
+Rare Ghost Hemp
+Exceptional Hemp
+Exceptional Skyflower
+Exceptional Amberleaf Cotton
+Exceptional Sunflax
+Exceptional Ghost Hemp
+Pristine Hemp
+Pristine Skyflower
+Pristine Amberleaf Cotton
+Pristine Sunflax
+Pristine Ghost Hemp
+
+# ---- Cloth ----
+Simple Cloth
+Neat Cloth
+Fine Cloth
+Ornate Cloth
+Lavish Cloth
+Opulent Cloth
+Baroque Cloth
+Uncommon Fine Cloth
+Uncommon Ornate Cloth
+Uncommon Lavish Cloth
+Uncommon Opulent Cloth
+Uncommon Baroque Cloth
+Rare Fine Cloth
+Rare Ornate Cloth
+Rare Lavish Cloth
+Rare Opulent Cloth
+Rare Baroque Cloth
+Exceptional Fine Cloth
+Exceptional Ornate Cloth
+Exceptional Lavish Cloth
+Exceptional Opulent Cloth
+Exceptional Baroque Cloth
+Pristine Fine Cloth
+Pristine Ornate Cloth
+Pristine Lavish Cloth
+Pristine Opulent Cloth
+Pristine Baroque Cloth
+
+# ---- Hide ----
+Rugged Hide
+Thin Hide
+Medium Hide
+Heavy Hide
+Robust Hide
+Thick Hide
+Resilient Hide
+Uncommon Medium Hide
+Uncommon Heavy Hide
+Uncommon Robust Hide
+Uncommon Thick Hide
+Uncommon Resilient Hide
+Rare Medium Hide
+Rare Heavy Hide
+Rare Robust Hide
+Rare Thick Hide
+Rare Resilient Hide
+Exceptional Medium Hide
+Exceptional Heavy Hide
+Exceptional Robust Hide
+Exceptional Thick Hide
+Exceptional Resilient Hide
+Pristine Medium Hide
+Pristine Heavy Hide
+Pristine Robust Hide
+Pristine Thick Hide
+Pristine Resilient Hide
+
+# ---- Leather ----
+Stiff Leather
+Thick Leather
+Worked Leather
+Cured Leather
+Hardened Leather
+Reinforced Leather
+Fortified Leather
+Uncommon Worked Leather
+Uncommon Cured Leather
+Uncommon Hardened Leather
+Uncommon Reinforced Leather
+Uncommon Fortified Leather
+Rare Worked Leather
+Rare Cured Leather
+Rare Hardened Leather
+Rare Reinforced Leather
+Rare Fortified Leather
+Exceptional Worked Leather
+Exceptional Cured Leather
+Exceptional Hardened Leather
+Exceptional Reinforced Leather
+Exceptional Fortified Leather
+Pristine Worked Leather
+Pristine Cured Leather
+Pristine Hardened Leather
+Pristine Reinforced Leather
+Pristine Fortified Leather
+
+# ---- Stone ----
+Limestone
+Sandstone
+Travertine
+Granite
+Slate
+Basalt
+Marble
+Uncommon Travertine
+Uncommon Granite
+Uncommon Slate
+Uncommon Basalt
+Uncommon Marble
+Rare Travertine
+Rare Granite
+Rare Slate
+Rare Basalt
+Rare Marble
+Exceptional Travertine
+Exceptional Granite
+Exceptional Slate
+Exceptional Basalt
+Exceptional Marble
+
+# ---- Stone blocks ----
+Limestone Block
+Sandstone Block
+Travertine Block
+Granite Block
+Slate Block
+Basalt Block
+Marble Block
+
+# ---- Runes, souls, relics, Avalonian shards (upgrade materials) ----
+Adept's Rune
+Expert's Rune
+Master's Rune
+Grandmaster's Rune
+Elder's Rune
+Adept's Soul
+Expert's Soul
+Master's Soul
+Grandmaster's Soul
+Elder's Soul
+Adept's Relic
+Expert's Relic
+Master's Relic
+Grandmaster's Relic
+Elder's Relic
+Adept's Avalonian Shard
+Expert's Avalonian Shard
+Master's Avalonian Shard
+Grandmaster's Avalonian Shard
+Elder's Avalonian Shard
+
+# ---- Crops ----
+Carrots
+Beans
+Sheaf of Wheat
+Turnips
+Cabbage
+Potatoes
+Bundle of Corn
+Pumpkin
+
+# ---- Herbs ----
+Arcane Agaric
+Brightleaf Comfrey
+Crenellated Burdock
+Dragon Teasel
+Elusive Foxglove
+Firetouched Mullein
+Ghoul Yarrow
+
+# ---- Animal products ----
+Goat's Milk
+Sheep's Milk
+Cow's Milk
+Hen Eggs
+Goose Eggs
+Raw Chicken
+Raw Goat
+Raw Goose
+Raw Mutton
+Raw Pork
+Raw Beef
+
+# ---- Cooking ingredients ----
+Flour
+Bread
+Goat's Butter
+Sheep's Butter
+Cow's Butter
+Basic Fish Sauce
+Fancy Fish Sauce
+Special Fish Sauce
+
+# ---- Fish, chopped fish, seaweed (fish sauce inputs) ----
+Common Rudd
+Striped Carp
+Albion Perch
+Bluescale Pike
+Spotted Trout
+Brightscale Zander
+Danglemouth Catfish
+River Sturgeon
+Common Herring
+Striped Mackerel
+Flatshore Plaice
+Bluescale Cod
+Spotted Wolffish
+Strongfin Salmon
+Bluefin Tuna
+Steelscale Swordfish
+Greenriver Eel
+Redspring Eel
+Deadwater Eel
+Upland Coldeye
+Mountain Blindeye
+Frostpeak Deadeye
+Stonestream Lurcher
+Rushwater Lurcher
+Thunderfall Lurcher
+Lowriver Crab
+Drybrook Crab
+Dusthole Crab
+Greenmoor Clam
+Murkwater Clam
+Blackbog Clam
+Shallowshore Squid
+Midwater Octopus
+Deepwater Kraken
+Whitefog Snapper
+Clearhaze Snapper
+Puremist Snapper
+Shark
+Chopped Fish
+Seaweed
